@@ -1,7 +1,5 @@
 # Greeting and Guidance Robot for the Ashraf Islam Building
 
-The descriptions and information in all readme files in the starter repo (including this one) must be edited. All section descriptions must be deleted. Any failure to remove the description information (like the statement that you are currently reading) will be heavily penalized!
-
 ## Executive Summary
 
 Give the elevator pitch and abstract for the project. It should allow interested visitors to broadly understand the motivation for the project and what the project has accomplished.
@@ -45,7 +43,6 @@ Professor Charles Van Neste
 ### Stakeholders
 
 Tell a bit about the customer for the project. Also discuss any other groups (specific or general) that are expected to be impacted by the project.
-
 
 
 ## Repo Organization
